@@ -1,0 +1,51 @@
+[
+  {
+    "id": "40a1c578-d307-416d-b5af-b3da6ae21ee4",
+    "name": "Hamid",
+    "email": "abdulhamid@gmail.com",
+    "hashedPassword": "$2b$12$4aRkEgsDsa/bPx4wcXx0r...epWCnbj6gIAyabI8.Byiyt/TbLLRm",
+    "createdAt": "2024-12-13T03:52:35.704Z",
+    "updatedAt": "2024-12-13T03:52:35.704Z",
+    "favoriteIds": []
+  },
+  {
+    "id": "a58c7262-7c55-46d4-aa21-dd2cc0b5de7c",
+    "name": "abdul",
+    "email": "hamid@gmail.com",
+    "hashedPassword": "$2b$12$gSDlgXTA9SWH7SWdPLf/m.vnbGT7LYoB..adrnaMPnDmnR79CWtMm",
+    "createdAt": "2024-12-14T00:21:19.648Z",
+    "updatedAt": "2024-12-14T00:21:19.648Z",
+    "favoriteIds": [
+      "65620f52086624c13f041bb6"
+    ]
+  },
+  {
+    "id": "7582edf9-c313-4c8a-a75f-1d30baab8e20",
+    "name": "Abdul Hamid",
+    "email": "abdul@gmail.com",
+    "hashedPassword": "$2b$12$QwVA.beGnY44kwseiObrQeQmPZ6Bb5Znh3xHmYZa54A.IzERWFN8C",
+    "createdAt": "2024-12-15T04:04:44.268Z",
+    "updatedAt": "2024-12-15T04:04:44.268Z",
+    "favoriteIds": [
+      "65620c3d705195ccc710db6d"
+    ]
+  },
+  {
+    "id": "3316b700-13ec-4665-96ac-e0a9904fe976",
+    "name": "gusagus",
+    "email": "agusganteng@gmail.com",
+    "hashedPassword": "$2b$12$tO498Vi./qIdybUGLy1ZC.AE.o2OEp1ukn1KMq2vmXzvgQCmFvZYi",
+    "createdAt": "2024-12-20T13:09:01.355Z",
+    "updatedAt": "2024-12-20T13:09:01.356Z",
+    "favoriteIds": []
+  },
+  {
+    "id": "e4a11ec2-d456-456a-9f98-835c7d83e441",
+    "name": "Habib",
+    "email": "habibalwasil@gmail.com",
+    "hashedPassword": "$2b$12$Y3Kw7IurQHoXMK/arevy2OqcOalD7gjZ8Rpy.uJUbMpb2.Gfxo8.O",
+    "createdAt": "2024-12-15T07:21:47.835Z",
+    "updatedAt": "2024-12-15T07:21:47.835Z",
+    "favoriteIds": []
+  }
+]

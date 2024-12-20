@@ -1,0 +1,29 @@
+[
+  {
+    "id": "f731c3bc-3486-417f-9c84-95ca81d047f5",
+    "userId": "a58c7262-7c55-46d4-aa21-dd2cc0b5de7c",
+    "listingId": "65620a46705195ccc710db69",
+    "startDate": "2024-12-21T17:00:00.000Z",
+    "endDate": "2024-12-27T17:00:00.000Z",
+    "totalPrice": 1530,
+    "createdAt": "2024-12-14T00:52:45.479Z"
+  },
+  {
+    "id": "e9fd93f3-d17b-43b0-99de-2199f805c78b",
+    "userId": "40a1c578-d307-416d-b5af-b3da6ae21ee4",
+    "listingId": "22a5bf7c-eb43-474e-b954-1ea591b55e48",
+    "startDate": "2024-12-19T17:00:00.000Z",
+    "endDate": "2024-12-22T17:00:00.000Z",
+    "totalPrice": 210,
+    "createdAt": "2024-12-14T01:12:25.300Z"
+  },
+  {
+    "id": "469c2da5-94ad-4217-879b-ada18725bba7",
+    "userId": "7582edf9-c313-4c8a-a75f-1d30baab8e20",
+    "listingId": "656206e1fc1511e96b6c0a77",
+    "startDate": "2024-12-25T17:00:00.000Z",
+    "endDate": "2024-12-28T17:00:00.000Z",
+    "totalPrice": 600,
+    "createdAt": "2024-12-15T04:08:42.506Z"
+  }
+]
